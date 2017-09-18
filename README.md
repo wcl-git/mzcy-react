@@ -1,2 +1,2 @@
-# mzcy-react
-react项目
+# mzcy-node、es6 、react 
+学习笔记
